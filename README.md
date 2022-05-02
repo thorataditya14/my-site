@@ -1,3 +1,3 @@
 # mysite
 
-Created during Django tutorials
+Created during Django tutorial
